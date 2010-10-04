@@ -11,6 +11,7 @@ h3. Features
 * Cache-control headers for 24 hours caching
 
 h3. Installation
+
 Clone this repository and make your own changes.
 'bundle install'
 'rackup'

@@ -6,9 +6,12 @@ Use SASS + HAML, and serve everything from heroku's cache for free!
   
   
 h3. Features
-* Catch-all html routes, just put your haml files inside 'views/pages/'
+* Catch-all html routes, just put your Haml files inside 'views/pages/'
+* Put your SASS files inside 'views/stylesheets/'
+* A layout file
 * Anyhting put in 'public' is served as a static file
 * Cache-control headers for 24 hours caching
+* Simple template built on Sinatra, really easy to modify and hack on. 
 
 h3. Installation
 
@@ -17,5 +20,5 @@ Clone this repository and make your own changes.
 bc. bundle install
 rackup
 
-Though I recommended installing the 'shotgun' gem and runnning that instead of rackup.
+I recommended installing the 'shotgun' gem and runnning that instead of rackup.
 

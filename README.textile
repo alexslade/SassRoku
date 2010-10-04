@@ -13,8 +13,9 @@ h3. Features
 h3. Installation
 
 Clone this repository and make your own changes.
-@bundle install@
-@rackup@
+bc. 
+bundle install
+rackup
 
 Though I recommended installing the 'shotgun' gem and runnning that instead of rackup.
 

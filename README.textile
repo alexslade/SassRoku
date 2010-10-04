@@ -14,8 +14,7 @@ h3. Installation
 
 Clone this repository and make your own changes.
 
-bc..
-bundle install
+bc. bundle install
 rackup
 
 Though I recommended installing the 'shotgun' gem and runnning that instead of rackup.

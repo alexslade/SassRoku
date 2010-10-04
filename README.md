@@ -1,4 +1,8 @@
-h1. 
+h1. SASSROKU
+
+This is a simple sinatra template for hosting static sites on heroku. 
+
+Use SASS + HAML, and serve everything from heroku's cache for free!
   
 
 h3. Features

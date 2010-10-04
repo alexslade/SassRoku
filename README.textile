@@ -13,7 +13,8 @@ h3. Features
 h3. Installation
 
 Clone this repository and make your own changes.
-bc. 
+
+bc..
 bundle install
 rackup
 

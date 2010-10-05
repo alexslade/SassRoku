@@ -2,13 +2,7 @@ h1. SassRoku
 
 A simple sinatra template for static websites. Use SASS + HAML, and serve everything from heroku's cache for free!
   
-  
-h6. Alpha
-
-This first version is rough and will be updated as I use it more. Patches are extremely welcome, feel free to contact me.
-  
-  
-h3. Features
+h2. Features
 * Catch-all html routes, just put your Haml files inside 'views/pages/'
 * Put your SASS files inside 'views/stylesheets/'
 * A layout file
@@ -16,7 +10,7 @@ h3. Features
 * Cache-control headers for 24 hours caching
 * Simple template built on Sinatra, really easy to modify and hack on. 
 
-h3. Installation
+h2. Installation
 
 Clone this repository and make your own changes.
 
@@ -25,3 +19,6 @@ rackup
 
 I recommended installing the 'shotgun' gem and runnning that instead of rackup.
 
+h2. Progress
+
+This first version is rough and will be updated as I use it more. Patches are extremely welcome, feel free to contact me.

@@ -3,6 +3,7 @@ h1. SassRoku
 A simple sinatra template for static websites. Use SASS + HAML, and serve everything from heroku's cache for free!
   
 h2. Features
+
 * Catch-all html routes, just put your Haml files inside 'views/pages/'
 * Put your SASS files inside 'views/stylesheets/'
 * A layout file

@@ -5,6 +5,11 @@ This is a simple sinatra template for hosting static sites on heroku.
 Use SASS + HAML, and serve everything from heroku's cache for free!
   
   
+h6. Alpha
+
+This first version is rough and will be updated as I use it more. Patches are extremely welcome, feel free to contact me.
+  
+  
 h3. Features
 * Catch-all html routes, just put your Haml files inside 'views/pages/'
 * Put your SASS files inside 'views/stylesheets/'
